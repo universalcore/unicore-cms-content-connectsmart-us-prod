@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Aprende a reconocer las estafas", 
+  "language": "spa_ES", 
+  "title": "\u00bfRecibes mensajes en los que te comunican que has ganado dinero?", 
+  "primary_category": "aff25fa42d514fddb81d31f561982ae4", 
+  "created_at": "2015-10-21T12:38:08+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-08T20:52:37.747643+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "b653112293544f8fa8a0221a45b738cb"
+  ], 
+  "id": null, 
+  "content": "**He recibido un mensaje en el que se me comunica que he ganado dinero o un premio \u00bfqu\u00e9 debo hacer?**\r\n\r\n - Si utilizas Internet es muy probable que recibas correos electr\u00f3nicos o mensajes de texto en los que se te comunique que has ganado dinero o un premio, como un tel\u00e9fono m\u00f3vil o unas vacaciones.\r\n - O a veces estos mensajes te dir\u00e1n que alguien necesita tu ayuda para que te ocupes de su dinero. \r\n - Generalmente te pedir\u00e1n ciertos datos como el n\u00famero de tu cuenta bancaria o tu n\u00famero de identificaci\u00f3n.\r\n - Estos mensajes son estafas.\r\n - Es muy improbable que hayas ganado algo si no has participado en ning\u00fan concurso. \r\n - No pinches en los enlaces que figuran en los correos electr\u00f3nicos enviados por personas a las que no conoces. \r\n - No facilites tus contrase\u00f1as ni tu informaci\u00f3n personal (como tu n\u00famero de identificaci\u00f3n, tu direcci\u00f3n o los datos de tu cuenta bancaria) a alguien que no conoces. \r\n\r\nSiguiente consejo sobre Internet: ", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "c92be77e145d4f36a38a92bb03e0a3fd", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "recibes-mensajes-en-los-que-te-comunican-que-has-ganado-dinero", 
+  "uuid": "27cd616b17024b5288a94900ab4d18b0"
+}
